@@ -1,0 +1,10 @@
+Algorithm
+
+1.      Start
+2.      Initialize the graphics mode.
+3.      Construct a 2D object 
+4.      for Translation
+      		Get the translation value tx, ty
+	        Move the 2d object with tx, ty (x’=x+tx,y’=y+ty)
+	        Plot (x’,y’)
+stop
